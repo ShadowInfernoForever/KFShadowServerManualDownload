@@ -5,4 +5,4 @@ Contains Custom Weaponry + Maps, you can use these freely.
 
 ### [killingfloor.ini]
 
-RedirectToURL=https://shadowinfernoforever.github.io/KFFastDL/FastDL/
+RedirectToURL=http://shadowinfernoforever.github.io/KFFastDL/FastDL/
